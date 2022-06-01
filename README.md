@@ -1,2 +1,16 @@
-# rock-paper-scissors
- 
+# Rock Paper Scissors
+
+## Authors
+
+- [@DanteVinci](https://github.com/Dantevincivezz)
+
+## Color Reference
+
+| Color         | Hex                                                               |
+| ------------- | ----------------------------------------------------------------- |
+| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #fffffff |
+| Example Color | ![#00d1a0](https://via.placeholder.com/10/000000?text=+) #000000  |
+
+## Screenshots
+
+![App Screenshot](http://logica.one/wp-content/uploads/2022/06/Zrzut-ekranu-2022-06-01-092023.png)
