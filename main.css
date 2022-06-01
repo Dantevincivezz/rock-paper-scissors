@@ -1,0 +1,16 @@
+
+#wrapper{margin:20vh 0 0 0}
+.flex-3-eq{display: flex; justify-content: space-evenly;}
+.flex-1-cent{display: flex; justify-content: center;}
+
+
+
+.thumb-medium{max-width: 15vw;min-width: 5vw;}
+#result{
+    margin: 0 auto;
+    min-height: 15vh;
+}
+.btnReset{min-width:7vw; margin: auto 0;}
+
+.hidden{display:none;}
+.shown{display: inherit;}
