@@ -4,13 +4,13 @@
 .flex-1-cent{display: flex; justify-content: center;}
 
 
-
+.thumb-other{max-width: 3vw;min-width: 10vw;padding: 0 15px}
 .thumb-medium{max-width: 15vw;min-width: 5vw;}
+
 #result{
     margin: 0 auto;
     min-height: 15vh;
 }
-.btnReset{min-width:7vw; margin: auto 0;}
 
 .hidden{display:none;}
 .shown{display: inherit;}
