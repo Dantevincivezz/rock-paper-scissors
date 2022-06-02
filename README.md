@@ -8,8 +8,8 @@
 
 | Color         | Hex                                                               |
 | ------------- | ----------------------------------------------------------------- |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #fffffff |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/000000?text=+) #000000  |
+| Example Color | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #fffffff |
+| Example Color | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000  |
 
 ## Screenshots
 
